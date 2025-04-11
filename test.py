@@ -12,10 +12,7 @@ print('bye dimension')
 
 print('this is in a new branch')
 
-
-print("hello")
-
 print("123456")
-print("123")
+print("hello")
 
 
